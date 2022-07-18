@@ -12,7 +12,10 @@
 		<!-- Banner -->
 			<section id="banner">
 				<h2>AWS Developer LAB</h2>
+				<p class="ui header center"><font color="white">Server IP Address <?=
+$_SERVER['SERVER_ADDR'] ?></
 				<! TO DO >
+				
 
 				<ul class="actions">
 					<li><a href="#" class="button special big">Get Started</a></li>
